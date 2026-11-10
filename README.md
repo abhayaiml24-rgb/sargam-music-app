@@ -1,8 +1,8 @@
 # Sargam: full-stack music streaming app
 
 A Spotify-style web app built with the MERN stack. Its standout feature is a **mood pad**: drag a dot between calm and intense, somber and happy, and the app recommends songs whose audio features sit closest to that point.
-
-**Live demo:** _add your Vercel link_ · **API:** _add your Render link_
+Live demo: https://sargam-music-app.vercel.app
+API: https://sargam-music-app.onrender.com
 **Demo login:** `demo@sargam.dev` / `demo1234`
 
 ![Screenshot](docs/home.png)
